@@ -32,11 +32,11 @@
     <ul>
         <li>Pepperoni</li>
         <li>Olives</li>
-        <li>Peppers (Never green)</li>
+        <li>Peppers <strong>(Never green)</strong></li>
         <li>Mushrooms</li>
         <li>Onions</li>
-        <li>Jalapenos</li>
-        <li>Pineapple (If you're crazy)</li>
+        <li><small>Jalapenos</small></li>
+        <li>Pineapple <em>(If you're crazy)</em></li>
         <li>Bacon</li>
     </ul>
 </body>
